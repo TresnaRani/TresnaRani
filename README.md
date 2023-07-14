@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/tresna-rani-b20b11248/">
-  <img align="left" alt="Sajeeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tresna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
  
