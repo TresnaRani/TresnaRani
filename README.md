@@ -21,7 +21,7 @@ Hi, I'm [Tresna Rani!](https://github.com/TresnaRani), a Front end Designer 🚀
 **Talking about Personal Topics:**
 
 - 👨🏽‍💻 I’m currently working on Front end Designing;
-- 🌱 I’m currently learning Javascript; 
+- 🌱 I’m currently learning Laravel; 
 - 💬 Ask me about anything, I am happy to help;
 
 
