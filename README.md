@@ -24,6 +24,10 @@ Hi, I'm [Tresna Rani!](https://github.com/TresnaRani), a Front end Designer 🚀
 - 🌱 I’m currently learning Laravel; 
 - 💬 Ask me about anything, I am happy to help;
 
+  **My Github States**
+
+  ![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TresnaRani&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
 
 **Languages, Framework, Library & Tools:**  
